@@ -1,0 +1,6 @@
+bihun;avc;feb 2023;4000.00;1;Rp 4,000.00
+bihun;avc;feb 2023;4000.00;1;Rp 4,000.00
+bihun;avc;feb 2023;3000.00;1;Rp 3,000.00
+mie;xcr;feb 2023;3000.00;1;Rp 3,000.00
+jus;bni;feb 2023;4000.00;1;Rp 4,000.00
+jus;bni;feb 2023;4000.0;1;1
